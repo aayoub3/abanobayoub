@@ -613,7 +613,9 @@ justify-content: right;
     width: 50px;
   }
 
-
+  #hello-text{
+    margin-top: 25%;
+  }
 
   .home{
     /* max-width: 80%; */
@@ -665,7 +667,7 @@ justify-content: right;
 
   .home-img img{
     display: flex;
-    margin-top: -85%;
+    margin-top: -60%;
      margin-left: -35%;
    max-width: 300px;
     justify-content: center;
