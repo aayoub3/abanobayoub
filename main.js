@@ -1,7 +1,7 @@
 
 
 var typed = new Typed(".fullstack-text",{
-  strings: ["Full Stack Developer" , "Computer Scientist", "Web Developer"],
+  strings: ["Software Engineer" , "Web Developer", "ERP Developer"],
   typeSpeed: 100,
   backSpeed: 100,
   backDelay: 1000,
